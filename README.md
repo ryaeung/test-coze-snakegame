@@ -1,6 +1,6 @@
 # 🐍 Snake Game
 
-Welcome to the **Snake Game** repository! This project is a modern take on the classic snake game, implemented using HTML, CSS, and JavaScript.
+Welcome to the **Snake Game** repository! This project is a take on the classic snake game coded **ENTIRELY BY AI**, and implemented using HTML, CSS, and JavaScript.
 
 ![Snake Game](https://img.shields.io/badge/Snake-Game-green.svg)
 ![HTML](https://img.shields.io/badge/HTML-5-orange.svg)
