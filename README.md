@@ -46,7 +46,7 @@ test-coze-snakegame/
 - Use the arrow keys on your keyboard to control the snake.
 - The objective is to eat the food that appears on the screen.
 - Each time the snake eats the food, it grows longer.
-- Avoid running into the walls or the snake's own body.
+- Avoid running into the snake's own body.
 
 ## 📄 Code Overview
 
